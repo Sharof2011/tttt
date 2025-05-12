@@ -1,0 +1,238 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: "Inter";
+}
+.conteiner {
+  max-width: 1400px;
+  margin: auto;
+}
+nav {
+  display: flex;
+
+  align-items: center;
+  padding-top: 30px;
+}
+nav,
+ul {
+  display: flex;
+  gap: 40px;
+  margin-right: 300px;
+}
+header {
+  background-color: rgba(0, 0, 0, 1);
+  height: 385px;
+}
+input {
+  width: 300px;
+  height: 50px;
+
+  color: rgba(102, 102, 102, 1);
+  background-color: white;
+
+  font-weight: 400;
+  font-size: 18px;
+  border-width: 1px;
+  padding-left: 14px;
+}
+a {
+  display: flex;
+  color: white;
+}
+.koy {
+  margin-right: 100px;
+}
+.h2 {
+  width: 277px;
+  height: 96px;
+  top: 115px;
+  left: 45px;
+  font-family: Inter;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: rgba(255, 255, 255, 1);
+  padding-top: 30px;
+}
+.button {
+  width: 109px;
+  height: 55px;
+  top: 300px;
+  left: 45px;
+  background-color: rgba(118, 185, 0, 1);
+  font-family: Inter;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin-top: 89px;
+}
+.backiban {
+  background-image: url(slider2\ 2.png);
+  height: 100vh;
+  background-repeat: no-repeat;
+}
+.h1 {
+  width: 630px;
+  height: 58px;
+  top: 400px;
+  left: 325px;
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin: auto;
+  margin-top: 25px;
+}
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+}
+.box img {
+  width: 100%;
+}
+.box {
+  width: 320px;
+  height: 330px;
+  top: 498px;
+  box-shadow: 0px 17px 27px -4px rgba(0, 0, 0, 0.25);
+  margin-top: 40px;
+}
+.p {
+  width: 178px;
+  height: 44px;
+  top: 682px;
+  left: 56px;
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin: auto;
+  margin-top: 20px;
+  text-align: center;
+}
+.pp {
+  height: 17px;
+  top: 763px;
+  left: 96px;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  display: flex;
+  justify-content: center;
+  margin-top: 37px;
+}
+.h3 {
+  width: 1156px;
+  height: 58px;
+  top: 840px;
+  left: 62px;
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: black;
+  margin: auto;
+  margin-top: 40px;
+}
+.h5 {
+  width: 274px;
+  height: 58px;
+  top: 1280px;
+  left: 503px;
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin: auto;
+  margin-top: 40px;
+}
+.back {
+  height: 351px;
+  top: 1736px;
+  left: 3px;
+  display: flex;
+  gap: 40px;
+  background-color: rgba(255, 252, 252, 1);
+  margin-top: 30px;
+}
+.hu {
+  width: 416px;
+  height: 116px;
+  top: 1757px;
+  left: 759px;
+  font-family: Inter;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: rgba(103, 185, 0, 1);
+  padding-top: 21px;
+}
+.df {
+  width: 399px;
+  height: 44px;
+  top: 1901px;
+  left: 760px;
+  font-family: Inter;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: rgba(0, 0, 0, 1);
+  padding-top: 38px;
+}
+.button-tt {
+  width: 233px;
+  height: 62px;
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 100%;
+  letter-spacing: 0%;
+
+  background-color: rgba(118, 185, 0, 1);
+  border: none;
+  margin-top: 90px;
+}
+.img {
+  padding-top: 29px;
+  width: 804px;
+  height: 320px;
+  top: 1765px;
+  left: 15px;
+  margin-left: 15px;
+}
+.footer {
+  height: 211px;
+  top: 2091px;
+  left: 44px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 29px;
+}
+.ama {
+  width: 175.45042419433594px;
+  height: 22px;
+  top: 2200px;
+  left: 1120px;
+  font-family: "Inter";
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: black;
+}
